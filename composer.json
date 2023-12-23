@@ -1,5 +1,5 @@
 {
-  "name": "fortnite-api/php-wrapper",
+  "name": "wauhundeland/fn-api-php",
   "description": "PHP wrapper for https://fortnite-api.com",
   "keywords": [
     "framework",
@@ -30,7 +30,7 @@
   "minimum-stability": "stable",
   "require": {
     "php": ">=7.0",
-    "guzzlehttp/guzzle": "^6.4"
+    "guzzlehttp/guzzle": ">=6.4"
   },
   "autoload": {
     "psr-4": {
